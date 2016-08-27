@@ -1,0 +1,2 @@
+# mrun
+run multiple commands
